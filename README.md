@@ -3,7 +3,8 @@
 ## Description
 This repository contains the project developed as part of the Synthesis Project 1 course for the degree of Artificial Intelligence. The main objective of this project was to apply Artificial Intelligence techniques to reduce energy consumption based on occupation data and information from different faculties. In the folder docs, there is a pdf where there is a detalied explanation about the project.
 
-##Repository Structure
+## Repository Structure
+
 The repository is structured as follows:
 
 data/: This directory contains the raw and processed data used in the project.
